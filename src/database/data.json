@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Nusrat Jahan",
+    "age": 28,
+    "education": "BSc in B",
+    "isActive": true
+  },
+  {
+    "id": "3",
+    "name": "Rakib Hasan",
+    "age": 21,
+    "education": "Diploma in CSE",
+    "isActive": true
+  },
+  {
+    "id": "4",
+    "name": "Mehedi Rahman",
+    "age": 26,
+    "education": "MSc in Physics",
+    "isActive": true
+  },
+  {
+    "id": "5",
+    "name": "Sadia Islam",
+    "age": 23,
+    "education": "BSc in Mathematics",
+    "isActive": false
+  },
+  {
+    "id": "2026-05-13T15:27:15.230Z",
+    "name": "Sadia Islam2",
+    "age": 23,
+    "education": "BSc in Mathematics",
+    "isActive": true
+  }
+]
